@@ -1,0 +1,10 @@
+{
+  "name": "VisionBox",
+  "description": "Cardboard stereo AR passthrough and 3DoF spatial computing headset app with floating head-tracked panels, gaze control, and Media3 video player.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">VisionBox</string>
+    <string name="app_subtitle">Spatial AR Passthrough for Cardboard</string>
+    <string name="enter_vr">Enter VR Mode</string>
+    <string name="calibration">Optics Calibration</string>
+    <string name="about">About &amp; Assumptions</string>
+    <string name="keep_phone_cool_title">Thermal &amp; Performance Tip</string>
+    <string name="keep_phone_cool_desc">Keep your phone cool: remove thick cases, open the Cardboard front visor slot for camera airflow, and take a break if battery exceeds 42°C.</string>
+    <string name="video_url_label">Spatial Video Stream URL (MP4 / HLS)</string>
+    <string name="video_url_placeholder">Paste video URL before entering VR…</string>
+    <string name="reset_sample_url">Sample 1</string>
+    <string name="sample_url_2">Sample 2</string>
+    <string name="debug_toggle_label">Show Live Telemetry &amp; Debug HUD</string>
+    <string name="camera_permission_title">Camera Permission Required</string>
+    <string name="camera_permission_rationale">VisionBox uses your rear camera at 1280×720 to render low-latency stereo passthrough of the real world inside your VR headset.</string>
+    <string name="grant_camera">Grant Camera Access</string>
+    <string name="continue_without_camera">Enter VR Without Passthrough (Grid Mode)</string>
+    <string name="calib_title">Cardboard Lens &amp; Stereo Calibration</string>
+    <string name="calib_ipd_label">Interpupillary Distance (IPD Offset)</string>
+    <string name="calib_distortion_label">Barrel Distortion Coefficient (k1)</string>
+    <string name="calib_scale_label">Lens Viewport Scale</string>
+    <string name="calib_distance_label">3D Panel Distance (Meters)</string>
+    <string name="calib_gaze_time_label">Gaze Dwell Click Time (Seconds)</string>
+    <string name="reset_defaults">Reset Defaults</string>
+    <string name="back_to_home">Back to Launcher</string>
+    <string name="about_title">About VisionBox &amp; Technical Assumptions</string>
+    <string name="mic_permission_title">Microphone Permission (What Am I Seeing?)</string>
+    <string name="mic_permission_rationale">Allows spoken voice questions in VR when you gaze at "What am I seeing?" or press Volume Down.</string>
+    <string name="grant_mic">Grant Mic Access</string>
+    <string name="what_am_i_seeing">What am I seeing?</string>
+</resources>
